@@ -2,7 +2,6 @@
 title: Pharmacotherapy
 date: 2009/08/20 00:10:00
 layout: post
-post_name: pharmacotherapy
 ---
 # Pharmacotherapy
 

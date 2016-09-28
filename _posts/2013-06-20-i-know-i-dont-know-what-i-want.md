@@ -2,7 +2,6 @@
 title: I know I don't know what I want
 date: 2013/06/20 10:58:40
 layout: post
-post_name: i-know-i-dont-know-what-i-want
 ---
 # I know I don't know what I want
 

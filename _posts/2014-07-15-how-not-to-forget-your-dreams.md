@@ -2,7 +2,6 @@
 title: How not to forget your dreams
 date: 2014/07/15 13:05:37
 layout: post
-post_name: how-not-to-forget-your-dreams
 ---
 # How not to forget your dreams
 

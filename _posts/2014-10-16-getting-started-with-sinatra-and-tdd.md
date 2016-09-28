@@ -2,7 +2,6 @@
 title: Getting started with Sinatra and test-driven development
 date: 2014/10/16 10:08:14
 layout: post
-post_name: getting-started-with-sinatra-and-tdd
 ---
 # Getting started with Sinatra and test-driven development
 

@@ -2,7 +2,6 @@
 title: Notes from FutureFest
 date: 2013/09/28 20:45:52
 layout: post
-post_name: futurefest
 ---
 # Notes from FutureFest
 

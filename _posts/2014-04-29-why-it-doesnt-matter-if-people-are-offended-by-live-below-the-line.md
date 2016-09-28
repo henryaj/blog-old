@@ -2,7 +2,6 @@
 title: Why it doesn't matter if people are offended by Live Below the Line
 date: 2014/04/29 18:00:13
 layout: post
-post_name: why-it-doesnt-matter-if-people-are-offended-by-live-below-the-line
 ---
 # Why it doesn't matter if people are offended by Live Below the Line
 

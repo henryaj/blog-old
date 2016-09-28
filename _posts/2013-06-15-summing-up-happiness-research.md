@@ -2,7 +2,6 @@
 title: Summing up happiness research
 date: 2013/06/15 13:02:13
 layout: post
-post_name: summing-up-happiness-research
 ---
 # Summing up happiness research
 

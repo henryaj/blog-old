@@ -2,7 +2,6 @@
 title: The Twelve-Second Code Year [part 3]
 date: 2014/09/29 12:00:30
 layout: post
-post_name: the-twelve-second-code-year-part-3
 ---
 # The Twelve-Second Code Year [part 3]
 

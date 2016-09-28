@@ -2,7 +2,6 @@
 title: Preparing for the pandemic
 date: 2012/02/25 21:15:23
 layout: post
-post_name: preparing-for-the-pandemic
 ---
 # Preparing for the pandemic
 

@@ -2,7 +2,6 @@
 title: Concourse: CI as Code
 date: 2015/10/18 17:33:48
 layout: post
-post_name: concourse-ci-as-code
 ---
 # Concourse: CI as Code
 

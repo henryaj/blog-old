@@ -2,7 +2,6 @@
 title: PRISM break
 date: 2014/01/30 00:01:00
 layout: post
-post_name: prism-break
 ---
 <!--Contrary to some claims, mass surveillance (a la PRISM) is illegal and ineffective.-->
 

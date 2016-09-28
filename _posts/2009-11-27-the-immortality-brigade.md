@@ -2,7 +2,6 @@
 title: The immortality brigade
 date: 2009/11/27 17:43:00
 layout: post
-post_name: the-immortality-brigade
 ---
 # The immortality brigade
 

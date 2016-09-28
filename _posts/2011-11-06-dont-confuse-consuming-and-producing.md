@@ -2,7 +2,6 @@
 title: Don't confuse consuming and producing
 date: 2011/11/06 22:31:07
 layout: post
-post_name: dont-confuse-consuming-and-producing
 ---
 # Don't confuse consuming and producing
 

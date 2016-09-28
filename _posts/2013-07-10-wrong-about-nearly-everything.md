@@ -2,7 +2,6 @@
 title: Wrong about nearly everything
 date: 2013/07/10 08:50:40
 layout: post
-post_name: wrong-about-nearly-everything
 ---
 # Wrong about nearly everything
 

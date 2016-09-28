@@ -2,7 +2,6 @@
 title: However vast the darkness, we must supply our own light
 date: 2014/04/02 08:41:22
 layout: post
-post_name: however-vast-the-darkness-we-must-supply-our-own-light
 ---
 # However vast the darkness, we must supply our own light
 

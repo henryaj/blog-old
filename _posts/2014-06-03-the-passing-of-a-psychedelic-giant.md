@@ -2,7 +2,6 @@
 title: The passing of a psychedelic giant
 date: 2014/06/03 09:14:16
 layout: post
-post_name: the-passing-of-a-psychedelic-giant
 ---
 # The passing of a psychedelic giant
 

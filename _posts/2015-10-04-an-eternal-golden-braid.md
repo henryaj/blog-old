@@ -2,7 +2,6 @@
 title: An eternal golden braid
 date: 2015/10/04 00:12:19
 layout: post
-post_name: an-eternal-golden-braid
 ---
 # An eternal golden braid
 

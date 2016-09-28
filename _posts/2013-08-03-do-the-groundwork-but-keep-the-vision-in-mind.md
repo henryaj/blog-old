@@ -2,7 +2,6 @@
 title: Do the groundwork, but keep the vision in mind
 date: 2013/08/03 15:53:29
 layout: post
-post_name: do-the-groundwork-but-keep-the-vision-in-mind
 ---
 # Do the groundwork, but keep the vision in mind
 

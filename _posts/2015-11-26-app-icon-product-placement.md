@@ -2,7 +2,6 @@
 title: App icon product placement
 date: 2015/11/26 13:19:50
 layout: post
-post_name: app-icon-product-placement
 ---
 # App icon product placement
 

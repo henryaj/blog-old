@@ -2,7 +2,6 @@
 title: Right on the money
 date: 2013/07/31 13:35:05
 layout: post
-post_name: right-on-the-money
 ---
 # Right on the money
 

@@ -2,7 +2,6 @@
 title: State of the Union: programming professionally in 2016
 date: 2016/04/15 21:17:00
 layout: post
-post_name: state-of-the-union-programming-professionally-in-2016
 ---
 # State of the Union: programming professionally in 2016
 

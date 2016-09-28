@@ -2,7 +2,6 @@
 title: Honest abstractions
 date: 2016/06/21 23:16:35
 layout: post
-post_name: numbers-are-technology
 ---
 # Honest abstractions
 

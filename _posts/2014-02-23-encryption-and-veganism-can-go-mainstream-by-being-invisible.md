@@ -2,7 +2,6 @@
 title: Encryption and veganism can go mainstream -- by being invisible
 date: 2014/02/23 13:30:04
 layout: post
-post_name: encryption-and-veganism-can-go-mainstream-by-being-invisible
 ---
 # Encryption and veganism can go mainstream -- by being invisible
 

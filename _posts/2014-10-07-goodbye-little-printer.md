@@ -2,7 +2,6 @@
 title: Goodbye, Little Printer
 date: 2014/10/07 10:26:49
 layout: post
-post_name: goodbye-little-printer
 ---
 # Goodbye, Little Printer
 

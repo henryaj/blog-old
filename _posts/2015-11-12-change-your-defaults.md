@@ -2,7 +2,6 @@
 title: Change your defaults
 date: 2015/11/12 23:51:57
 layout: post
-post_name: change-your-defaults
 ---
 # Change your defaults
 

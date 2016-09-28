@@ -2,7 +2,6 @@
 title: TIL about Ruby bindings
 date: 2016/02/11 18:31:54
 layout: post
-post_name: til-about-ruby-bindings
 ---
 # TIL about Ruby bindings
 

@@ -2,7 +2,6 @@
 title: Ambitious psychology
 date: 2011/03/16 18:25:00
 layout: post
-post_name: ambitious-psychology
 ---
 # Ambitious psychology
 
