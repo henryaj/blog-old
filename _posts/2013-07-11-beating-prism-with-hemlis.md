@@ -1,5 +1,7 @@
+---
 title: Beating PRISM with Hemlis
 date: 2013/07/11 13:53:33
+layout: post
 post_name: beating-prism-with-hemlis
 ---
 # Beating PRISM with Hemlis

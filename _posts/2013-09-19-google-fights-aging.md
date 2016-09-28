@@ -1,5 +1,7 @@
+---
 title: Google fights aging
 date: 2013/09/19 17:00:18
+layout: post
 post_name: google-fights-aging
 ---
 # Google fights aging

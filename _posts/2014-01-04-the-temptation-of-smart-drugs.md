@@ -1,5 +1,7 @@
+---
 title: The temptation of smart drugs
 date: 2014/01/04 19:37:29
+layout: post
 post_name: the-temptation-of-smart-drugs
 ---
 # The temptation of smart drugs

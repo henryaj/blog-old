@@ -1,7 +1,11 @@
+---
 title: What's the point of OpenPCR?
 date: 2011/10/31 20:59:00
-post_name: whats-the-point-of-openpcr
+layout: post
+layout: post
+
 ---
+
 # What's the point of OpenPCR?
 
 For those not in the know, PCR is a standard biological technique that lets you make lots of copies of a piece of template DNA. It’s crucial because a lot of molecular biology relies on having a large amount of a particular DNA, so it makes possible everything from DNA fingerprinting to genomics to forensics to getting bacteria to express a gene of interest. Its invention changed the face of modern biology.

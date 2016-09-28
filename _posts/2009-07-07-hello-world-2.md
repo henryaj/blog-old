@@ -1,5 +1,7 @@
+---
 title: Hello, world.
 date: 2009/07/07 09:28:00
+layout: post
 post_name: hello-world-2
 ---
 # Hello, world.

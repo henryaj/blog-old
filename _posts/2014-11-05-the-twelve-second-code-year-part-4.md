@@ -1,5 +1,7 @@
+---
 title: The Twelve-Second Code Year [part 4]
 date: 2014/11/05 13:32:21
+layout: post
 post_name: the-twelve-second-code-year-part-4
 ---
 # The Twelve-Second Code Year [part 4]

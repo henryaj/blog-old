@@ -1,5 +1,7 @@
+---
 title: FizzBuzz in CoffeeScript – a worked example
 date: 2014/09/25 22:02:32
+layout: post
 post_name: fizzbuzz-in-coffeescript-a-worked-example
 ---
 # FizzBuzz in CoffeeScript – a worked example

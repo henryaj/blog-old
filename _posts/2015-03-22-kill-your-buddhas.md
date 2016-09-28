@@ -1,5 +1,7 @@
+---
 title: Kill your Buddhas
 date: 2015/03/22 13:12:38
+layout: post
 post_name: kill-your-buddhas
 ---
 # Kill your Buddhas

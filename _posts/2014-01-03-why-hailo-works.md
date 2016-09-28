@@ -1,5 +1,7 @@
+---
 title: Why Hailo works
 date: 2014/01/03 14:34:12
+layout: post
 post_name: why-hailo-works
 ---
 # Why Hailo works

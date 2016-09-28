@@ -1,5 +1,7 @@
+---
 title: Push back against state surveillance
 date: 2014/02/11 15:50:10
+layout: post
 post_name: push-back-against-state-surveillance
 ---
 # Push back against state surveillance

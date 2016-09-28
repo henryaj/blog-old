@@ -1,5 +1,7 @@
+---
 title: Fashionable pharmaceuticals
 date: 2009/12/18 14:58:00
+layout: post
 post_name: fashionable-pharmaceuticals
 ---
 # Fashionable pharmaceuticals

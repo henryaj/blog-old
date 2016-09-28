@@ -1,5 +1,7 @@
+---
 title: Giving what we can
 date: 2016/01/10 16:06:43
+layout: post
 post_name: giving-what-we-can
 ---
 # Giving what we can

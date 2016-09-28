@@ -1,6 +1,7 @@
 ---
 title: The next step
 layout: post
+
 date: 2016/06/28 18:07:39
 post_name: the-next-step
 ---

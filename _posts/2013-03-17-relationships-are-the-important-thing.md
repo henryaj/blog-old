@@ -1,5 +1,7 @@
+---
 title: Relationships are the important thing
 date: 2013/03/17 22:05:57
+layout: post
 post_name: relationships-are-the-important-thing
 ---
 # Relationships are the important thing

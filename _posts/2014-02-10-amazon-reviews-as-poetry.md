@@ -1,5 +1,7 @@
+---
 title: Amazon reviews as poetry
 date: 2014/02/10 13:42:49
+layout: post
 post_name: amazon-reviews-as-poetry
 ---
 # Amazon reviews as poetry

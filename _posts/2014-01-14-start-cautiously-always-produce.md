@@ -1,5 +1,7 @@
+---
 title: Start cautiously. Always produce.
 date: 2014/01/14 18:15:43
+layout: post
 post_name: start-cautiously-always-produce
 ---
 # Start cautiously. Always produce.

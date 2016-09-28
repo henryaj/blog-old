@@ -1,5 +1,7 @@
+---
 title: Shortcuts for supercentenarians
 date: 2011/10/26 22:09:00
+layout: post
 post_name: shortcuts-for-supercentenarians
 ---
 # Shortcuts for supercentenarians

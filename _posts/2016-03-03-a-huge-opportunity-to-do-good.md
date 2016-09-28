@@ -1,5 +1,7 @@
+---
 title: A huge opportunity to do good
 date: 2016/03/03 14:40:21
+layout: post
 post_name: a-huge-opportunity-to-do-good
 ------
 # A huge opportunity to do good

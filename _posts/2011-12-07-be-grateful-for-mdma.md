@@ -1,5 +1,7 @@
+---
 title: Be grateful for MDMA
 date: 2011/12/07 22:42:00
+layout: post
 post_name: be-grateful-for-mdma
 ---
 # Be grateful for MDMA

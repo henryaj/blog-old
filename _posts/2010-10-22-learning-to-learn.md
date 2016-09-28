@@ -1,5 +1,7 @@
+---
 title: Learning to learn
 date: 2010/10/22 23:43:00
+layout: post
 post_name: learning-to-learn
 ---
 # Learning to learn

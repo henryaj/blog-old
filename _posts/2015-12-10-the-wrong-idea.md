@@ -1,5 +1,7 @@
+---
 title: The wrong idea
 date: 2015/12/10 22:52:32
+layout: post
 post_name: the-wrong-idea
 ---
 # The wrong idea

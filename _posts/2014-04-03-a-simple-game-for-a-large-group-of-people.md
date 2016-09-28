@@ -1,5 +1,7 @@
+---
 title: A simple game for a large group of people
 date: 2014/04/03 09:03:10
+layout: post
 post_name: a-simple-game-for-a-large-group-of-people
 ---
 # A simple game for a large group of people

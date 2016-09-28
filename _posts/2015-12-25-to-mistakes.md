@@ -1,5 +1,7 @@
+---
 title: To mistakes
 date: 2015/12/25 00:06:53
+layout: post
 post_name: to-mistakes
 ---
 # To mistakes

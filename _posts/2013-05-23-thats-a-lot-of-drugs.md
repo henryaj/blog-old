@@ -1,5 +1,7 @@
+---
 title: That's a lot of drugs
 date: 2013/05/23 17:42:58
+layout: post
 post_name: thats-a-lot-of-drugs
 ---
 # That's a lot of drugs

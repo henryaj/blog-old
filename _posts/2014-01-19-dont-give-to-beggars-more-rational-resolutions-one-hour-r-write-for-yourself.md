@@ -1,5 +1,7 @@
+---
 title: Links #1: Don't give to beggars, more rational resolutions, one hour R, write for yourself
 date: 2014/01/19 11:00:00
+layout: post
 post_name: dont-give-to-beggars-more-rational-resolutions-one-hour-r-write-for-yourself
 ---
 # Links #1: Don't give to beggars, more rational resolutions, one hour R, write for yourself

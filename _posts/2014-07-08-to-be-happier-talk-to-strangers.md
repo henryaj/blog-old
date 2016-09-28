@@ -1,5 +1,7 @@
+---
 title: To be happier, talk to strangers
 date: 2014/07/08 13:38:10
+layout: post
 post_name: to-be-happier-talk-to-strangers
 ---
 # To be happier, talk to strangers

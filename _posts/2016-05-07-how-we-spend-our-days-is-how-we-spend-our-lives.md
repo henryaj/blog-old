@@ -1,5 +1,7 @@
+---
 title: How we spend our days is how we spend our lives
 date: 2016/05/07 00:00:51
+layout: post
 post_name: how-we-spend-our-days-is-how-we-spend-our-lives
 ---
 # How we spend our days is how we spend our lives

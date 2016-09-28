@@ -1,5 +1,7 @@
+---
 title: The youth of synthetic biology
 date: 2010/11/06 17:00:00
+layout: post
 post_name: the-youth-of-synthetic-biology
 ---
 # The youth of synthetic biology

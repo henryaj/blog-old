@@ -1,5 +1,7 @@
+---
 title: Thinking of the children
 date: 2009/08/24 12:04:00
+layout: post
 post_name: thinking-of-the-children
 ---
 # Thinking of the children
