@@ -1,11 +1,11 @@
-title: Henry Stanley
+title: Arguably
 email: henry@henrystanley.com
-# description:
+description: Shouting about stuff since 2004.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://henryaj.github.io"
 twitter_username: henryaj
-github_username:  henryaj
+github_username: henryaj
 
 markdown: kramdown
 theme: minima
