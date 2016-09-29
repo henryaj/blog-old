@@ -5,4 +5,6 @@ layout: post
 ---
 # App icon product placement
 
-_Was that always there?_ ![](https://henryaj.files.wordpress.com/2015/11/img_0172.png)
+_Was that always there?_
+
+![](https://henryaj.files.wordpress.com/2015/11/img_0172.png)
