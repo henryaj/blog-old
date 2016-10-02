@@ -3,7 +3,6 @@ title: The youth of synthetic biology
 date: 2010/11/06 17:00:00
 layout: post
 ---
-# The youth of synthetic biology
 
 In May 2010, Craig Venter produced the world’s first ‘synthetic organism’, dealing vitalism a final death blow in the process. Created from a bacterium with its nucleus removed, he inserted an entirely synthetic chromosome bearing DNA famously ‘watermarked’ with quotes from James Joyce and Richard Feynman. The cell promptly took on the identity written into its new genome, like a computer rebooted from a new hard disk.
 

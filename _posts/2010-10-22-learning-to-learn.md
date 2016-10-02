@@ -3,7 +3,6 @@ title: Learning to learn
 date: 2010/10/22 23:43:00
 layout: post
 ---
-# Learning to learn
 
 The approach usually taken to learning is to repeat. A good revision timetable will allow lots of time for reviewing material several times; a bad one will allow less time. With each repetition, each review of a list of bullet points or a slide in a lecture, you learn a little bit more, and the memory sticks a little better. A simple linear relationship between the number of repetitions and the amount remembered.
 

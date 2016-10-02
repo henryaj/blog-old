@@ -3,14 +3,13 @@ title: Don't confuse consuming and producing
 date: 2011/11/06 22:31:07
 layout: post
 ---
-# Don't confuse consuming and producing
 
 _I’m trying to figure out what to do with my life. Give me your thoughts._
 
 Michael Idov writes in his piece _[Bitter Brew](http://www.slate.com/articles/life/a_fine_whine/2005/12/bitter_brew.html)_ in Slate:
 
-> I never realized how ubiquitous the dream of opening a small coffeehouse was until I fell under its spell myself. It seemed that just about every boho-professional couple had indulged in this fantasy at some point or another. 
-> 
+> I never realized how ubiquitous the dream of opening a small coffeehouse was until I fell under its spell myself. It seemed that just about every boho-professional couple had indulged in this fantasy at some point or another.
+>
 > The dream of running a small cafe has nothing to do with the excitement of entrepreneurship or the joys of being one’s own boss—none of us would ever consider opening a Laundromat or a stationery store… The small cafe connects to the fantasy of throwing a perpetual dinner party… To a couple in the throes of the cafe dream, money is almost an afterthought. Which is good, because they’re going to lose a lot of it.
 
 This article is the story of a young married couple who decide to run a cute little coffee shop (in New York, but any big city’ll do). They’re enamoured with the idea of it, not because they want financial independence, to set their own hours or to be their own boss(es), but because they’ve fallen in love with the notion that providing that service will be just as fun as consuming it.

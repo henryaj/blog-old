@@ -1,11 +1,8 @@
 ---
 title: The next step
 layout: post
-
 date: 2016/06/28 18:07:39
 ---
-
-# The next step
 
 The Economist [lays out](http://www.economist.com/news/britain/21700386-brexiteers-are-deliberately-vague-about-alternatives-european-union-membership) what Britain would look like as an EEA member.
 

@@ -4,8 +4,6 @@ date: 2016/03/03 14:40:21
 layout: post
 ---
 
-# A huge opportunity to do good
-
 From Will MacAskill's _[Doing Good Better](http://www.goodreads.com/book/show/23398748-doing-good-better):_
 
 > What the conclusions from the economic studies suggest is that the benefit you would get from having your salary doubled is the same as the benefit an extremely poor Indian farmer earning $220 a year would get from an additional $220. As noted earlier, the typical US wage is $28,000 (£18,200), so there is good theoretical reason for thinking that the same amount of money can be of at least one hundred times as much benefit to the very poorest people in the world as it can be to typical citizens of the West. Anyone earning this much is one hundred times as rich as the very poorest people in the world, which means one additional unit of income can do a hundred times as much to benefit the extreme poor as it can to benefit you or I. ...

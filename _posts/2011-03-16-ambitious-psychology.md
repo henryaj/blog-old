@@ -3,24 +3,23 @@ title: Ambitious psychology
 date: 2011/03/16 18:25:00
 layout: post
 ---
-# Ambitious psychology
 
 This month’s _Lates_ night at the Science Museum—described as an evening of ‘free adults-only entertainment’—put the spotlight on the study of happiness. One event, a talk by [Glenn Wilson](http://en.wikipedia.org/wiki/Glenn_Wilson_\(psychologist\)), touched on a number of aspects of happiness research. In its modern form, positive psychology is a relatively young field, and it focuses specifically on evidence-based methods for improving happiness.
 
 Positive psychology has a few perhaps obvious things to tell us: being employed (or better, self-employed) and having big, external life goals are all sources of happiness. People with a small group of intimate friends are happier than those with large groups of superficial friends. Commuting is miserable, but being jobless is worse. Negative self-talk is poisonous to happiness, which is why so many treatments for depression focus on quashing it.  
-  
+
 There were some strange ones, too: the anticipation of a holiday is more enjoyable than the holiday itself, so perhaps several short breaks are advisable to maximise pre-vacation euphoria. Churchgoing rather than theological belief brings happiness to the religious. And women, in spite of increased equality and opportunity, have been becoming more unhappy for years. This is the counterintuitive dark side of the study of happiness.  
-  
+
 But the talk felt trite. Drugs, for example, were quickly dismissed as reducing happiness long-term. Of course, highly addictive drugs like heroin likely produce net unhappiness. But volunteers given psilocybin, the active ingredient of magic mushrooms, overwhelmingly enjoyed the experience—and the majority said it had a lasting positive effect on their lives when asked 18 months later. Few would debate that, while it can be harmful, alcohol’s societal role could be a net good if it encourages people to make friends and enjoy rich social experiences. Yet an honest, evidence-based appraisal of different drugs’ harms and benefits—one that considers the enjoyment they bring as a benefit—is presumably too unpalatable to ever get funding at a time when every nation on the planet has drug prohibition laws of one sort or another.  
-  
+
 What of the role of personality in happiness? In a culture where connections and networking are emphasised as crucial to building a career, do extroverts fare better than introverts? Malcolm Gladwell writes extensively about the role of ‘soft skills’ in people’s success—skills which he believes middle-class parents pass onto their children but working-class parents do not—like assertiveness, social graces and other learned behaviours which aren’t formally taught but can drastically alter life outcomes and signal membership of a particular social group, for better or for worse.  
-  
+
 Wilson also mentioned the ‘hedonic treadmill’, the notion that people return to a particular happiness set-point over time. Positive life events don’t affect long-term happiness—but nor do negative ones. (That paraplegics are no less happy than the able-bodied in spite of their loss is proof of this.) The hedonic treadmill guarantees that the we have much less control over our happiness than we would like, and that, in the end, it might be impossible to move our happiness significantly away from some immutable mean.  
-  
+
 Later in the evening came a brief talk in a tiny, packed room from a curator at the Museum seeking to expand their collections. The resident Historian of Psychology reviewed the history of animal models of addiction. It was a useful lesson in experimental bias: the first animal models of addiction used rats placed in a Skinner box (a metal box with an assortment of levers) to see whether they would prefer to self-administer morphine delivered straight into the brain to to press a lever to get a food pellet. The mice preferred the morphine over food and water, even when they were dying of starvation. Ever since, this has been the prevailing model of addictive drugs - that the sheer force of the desire to consume them is overwhelming.  
-  
+
 But a protégée of Skinner’s, Bruce K. Alexander, wasn’t convinced. He worried that by moving caged rats around when they were experimented on, the rats were responding more to the attention they were getting than to the drug, and that the results Skinner had seen were just an artefact of this. He set up Rat Park—an open space with toys, other rats and faux greenery—which he thought more accurately emulated rats’ natural environment. In Rat Park, he found that rats actually preferred water to morphine water, perhaps because the morphine made them asocial and unable to play with other rats. Adding naloxone to the drugged water neutralised the effect of the morphine, and the rats were then happy to drink it.  
-  
+
 The outcome probably wasn’t as stark as was presented in the talk—other researchers succeeded only partially in reproducing the experiment—but the result is striking enough. Alexander’s experiments failed to have the intended effect on his peers, though, and the models of addiction he purported to have rubbished live on in contemporary academia. He now spends his days studying human drug addiction through history and anthropology, and his latest book is based on the premise that addiction is a social phenomenon, not a pharmacological one. He wants to ‘reshape society with enough force and imagination’ that people would be able to find meaning in their lives—meaning that he thinks would take the place of addiction in many cases.  
-  
+
 Positive psychology is increasingly seen as a highly respected discipline. Studying mood and developing the tools to improve people’s happiness is a noble and ambitious goal. So is Bruce Alexander’s attempt to reframe addiction as a social disease—and to build a new society whose properties don’t allow it to exist. Both require an unflinching devotion to empiricism. But at their core, they are fields driven by a desire to understand what makes people tick, and an ambition to improve the human condition.

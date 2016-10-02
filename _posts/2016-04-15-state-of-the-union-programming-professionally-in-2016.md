@@ -3,7 +3,6 @@ title: "State of the Union: programming professionally in 2016"
 date: 2016/04/15 21:17:00
 layout: post
 ---
-# State of the Union: programming professionally in 2016
 
 Stack Overflow released their latest [annual developer survey](http://stackoverflow.com/research/developer-survey-2016) last month. (For any non-programmers reading: Stack Overflow is a website where you can ask questions about programming. For many programming problems, the answer will already be up there. It's an amazing resource that almost everyone in the industry uses.) A few key points stood out for me.
 

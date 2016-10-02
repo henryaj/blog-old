@@ -3,7 +3,6 @@ title: Thinking of the children
 date: 2009/08/24 12:04:00
 layout: post
 ---
-# Thinking of the children
 
 _I was given the task of writing a piece on the primary school science club I help run which is to appear in UCL’s Volunteering Services Unit (VSU) annual review as a showcase of the work the Unit funds. This is what I came up with—comments and suggestions are much appreciated._
 

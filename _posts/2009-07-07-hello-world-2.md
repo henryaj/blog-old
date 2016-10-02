@@ -3,7 +3,6 @@ title: Hello, world.
 date: 2009/07/07 09:28:00
 layout: post
 ---
-# Hello, world.
 
 So, here it is. The very first in what will hopefully become a long line of posts.
 

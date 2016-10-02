@@ -3,7 +3,6 @@ title: App icon product placement
 date: 2015/11/26 13:19:50
 layout: post
 ---
-# App icon product placement
 
 _Was that always there?_
 

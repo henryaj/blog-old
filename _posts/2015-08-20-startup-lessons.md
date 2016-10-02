@@ -3,7 +3,6 @@ title: Startup Lessons
 date: 2015/08/20 18:50:42
 layout: post
 ---
-# Startup Lessons
 
 Some thoughts on (tech) startups.
 

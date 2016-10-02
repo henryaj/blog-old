@@ -3,7 +3,6 @@ title: Fashionable pharmaceuticals
 date: 2009/12/18 14:58:00
 layout: post
 ---
-# Fashionable pharmaceuticals
 
 The pharmaceuticals industry has an obsession with novelty. We want better drugs with fewer side-effects, but too often _newness _is correlated (wrongly) with an improvement in quality. One new drug that is twice as good at treating an illness as its predecessor is better than five drugs each offering a one per cent improvement on the first. ‘New’ drugs which appear on the market often seem to be derivatives of the well-tested substances which precede them and not genuinely novel drugs.
 
@@ -18,7 +17,7 @@ The other three drugs have been shown to be promising antidepressants and mood e
 [Yohimbine](http://en.wikipedia.org/wiki/Yohimbine) is another interesting drug which languishes in scientific obscurity. Potentially quite a useful aphrodisiac and treatment for erectile dysfunction, [this](http://www.biopsychiatry.com/yohimbine.html) study into its effectiveness asks why so little data on it is available, concluding that its off-patent status is a serious disincentive for further investigation into its clinical efficacy:
 
 > Despite such a long history and encouraging activity, the drug has not yet been subjected to scientifically rigid human clinical trials. … Recent studies have been designed with a lack of insight and complete disregard of those fundamental studies. … Dose-response investigations are not available, alternative routes of administration have not been investigated… Synergistic activity with other drugs was last studied nearly four decades ago. Assessments of various populations were carried out in very limited cohorts and only in the most general terms. …
-> 
+>
 > Yohimbine is an old drug. As such it does not enjoy patent protection or commercial viability. Until molecular/formulation changes can be brought about … serious investigation of the drug will remain in limbo.
 
 If big pharma isn’t going to look into vintage pharmacotherapies, shouldn’t governments be willing to do so? If the purpose of bodies like [NICE](http://www.nice.org.uk/) is to find the most effective treatment at the lowest cost, don’t they have an incentive to investigate other drugs; to scour the literature for candidate substances and fund studies of drugs which showed promise but were left languishing?

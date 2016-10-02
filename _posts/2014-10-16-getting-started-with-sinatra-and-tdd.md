@@ -3,7 +3,6 @@ title: Getting started with Sinatra and test-driven development
 date: 2014/10/16 10:08:14
 layout: post
 ---
-# Getting started with Sinatra and test-driven development
 
 **Sinatra** is a DSL (_domain-specific language_, or a language written for a specific purpose) for building web applications. It can be confusing. If you're a beginner programmer fiddling around with Ruby, the single-user terminal apps you've been writing are suddenly up on the web for everyone to see, and they need to behave differently as a result.
 

@@ -3,7 +3,6 @@ title: The wrong idea
 date: 2015/12/10 22:52:32
 layout: post
 ---
-# The wrong idea
 
 My father tells a story of someone he used to work with – someone so totally unacquainted with social norms that he was thought of as 'an alien'.
 

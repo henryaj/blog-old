@@ -3,9 +3,8 @@ title: Why it doesn't matter if people are offended by Live Below the Line
 date: 2014/04/29 18:00:13
 layout: post
 ---
-# Why it doesn't matter if people are offended by Live Below the Line
 
-From [A Turn of Phrase](http://aturnofphrase.tumblr.com/post/84206186644/why-i-wont-support-live-below-the-line): 
+From [A Turn of Phrase](http://aturnofphrase.tumblr.com/post/84206186644/why-i-wont-support-live-below-the-line):
 
 > Poverty in the UK is not a fun game or experiment for those who are fortunate enough to never have experienced it to play with. ... If the excuse is that it’s to raise money, find something else to do. Something that doesn't appropriate or make light of other’s _[sic]_ difficult and painful situations.
 

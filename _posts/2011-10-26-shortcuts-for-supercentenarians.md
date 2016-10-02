@@ -3,7 +3,6 @@ title: Shortcuts for supercentenarians
 date: 2011/10/26 22:09:00
 layout: post
 ---
-# Shortcuts for supercentenarians
 
 _First posted on [Nature Student Voices](http://www.nature.com/scitable/blog/student-voices/shortcuts_for_supercentenarians). It’s a long and relatively technical piece on ageing and how there might be shortcuts to slowing it down without knowing much about its molecular mechanism._
 
