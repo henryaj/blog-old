@@ -2,6 +2,7 @@
 title: Summing up happiness research
 date: 2013/06/15 13:02:13
 layout: post
+category: happiness
 ---
 
 In a [previous post](http://henrystanley.com/2011/03/16/ambitious-psychology/) of mine, I devoted a couple of paragraphs to summing up the current state of psychological research into happiness. It occurred to me that Eric Weiner's _[The Geography of Bliss](http://www.amazon.com/gp/product/044669889X)_ has a much better précis than I did at the time:
