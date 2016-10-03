@@ -2,9 +2,10 @@
 title: Fashionable pharmaceuticals
 date: 2009/12/18 14:58:00
 layout: post
+category: science
 ---
 
-The pharmaceuticals industry has an obsession with novelty. We want better drugs with fewer side-effects, but too often _newness _is correlated (wrongly) with an improvement in quality. One new drug that is twice as good at treating an illness as its predecessor is better than five drugs each offering a one per cent improvement on the first. ‘New’ drugs which appear on the market often seem to be derivatives of the well-tested substances which precede them and not genuinely novel drugs.
+The pharmaceuticals industry has an obsession with novelty. We want better drugs with fewer side-effects, but too often _newness_ is correlated (wrongly) with an improvement in quality. One new drug that is twice as good at treating an illness as its predecessor is better than five drugs each offering a one per cent improvement on the first. ‘New’ drugs which appear on the market often seem to be derivatives of the well-tested substances which precede them and not genuinely novel drugs.
 
 Consider [escitalopram](http://en.wikipedia.org/wiki/Escitalopram), a relatively new SSRI antidepressant. This is not a new drug in any meaningful way—rather, it is an enantiomerically pure form of the older, off-patent antidepressant citalopram. (In chemistry, a chemical’s connectivity—the order in which groups are bonded to one another—is referred to as its _stereochemistry_, and chemicals can have different forms or _[enantiomers](http://en.wikipedia.org/wiki/Enantiomer) _as a result of these different ways of connecting the groups together.) Citalopram is a mixture of two enantiomers; isolate one and you’ve got escitalopram.
 

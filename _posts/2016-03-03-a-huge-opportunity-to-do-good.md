@@ -2,6 +2,7 @@
 title: A huge opportunity to do good
 date: 2016/03/03 14:40:21
 layout: post
+category: philosophy
 ---
 
 From Will MacAskill's _[Doing Good Better](http://www.goodreads.com/book/show/23398748-doing-good-better):_

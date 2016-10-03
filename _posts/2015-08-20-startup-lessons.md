@@ -2,6 +2,7 @@
 title: Startup Lessons
 date: 2015/08/20 18:50:42
 layout: post
+category: programming
 ---
 
 Some thoughts on (tech) startups.
@@ -21,5 +22,7 @@ Some thoughts on (tech) startups.
 7. **Be wary of growth through sheer force.** Any product can get users, given enough funding. But if it costs you ten times more to acquire a user then they ever return you in profits, your business model is broken.
 
 8. **Listen to your employees.** They're the ones at the coal-face working on your product, selling it to people, meeting your customers. They probably know the most about it. They need to care about it and believe in it. Take their opinions seriously.
+
+***
 
 [^DavidMack]: Stolen shamelessly from David Mack's excellent _[Advice for first-time founders](https://medium.com/@DavidMack/advice-for-first-time-founders-3834f02cd3b0)_, which all tech startup founders should read.

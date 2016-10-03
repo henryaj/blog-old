@@ -2,6 +2,7 @@
 title: The immortality brigade
 date: 2009/11/27 17:43:00
 layout: post
+category: science
 ---
 
 A fifty-seat room was never going to be big enough. People fill the aisles, sit on the ground and peer around the door. A man comes in a little late clutching a box bearing the _LifeExtension_ ‘nutriceutical’ brand. Sunlight glints through the windows, dappling the trademark grey-speckled beard and ponytail of today’s speaker, the somewhat notorious Aubrey de Grey. For the next two hours, this room will house discussions of whole-brain emulation, ‘strong’ (self-improving) artificial intelligence and molecular medicine’s promise of immortality. For the moment, this was a room of Singularitarians.

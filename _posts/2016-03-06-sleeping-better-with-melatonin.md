@@ -2,6 +2,7 @@
 title: Sleeping better with melatonin
 date: 2016/03/06 15:02:05
 layout: post
+category: science
 ---
 
 I've suffered from insomnia for as long as I can remember – certainly since I was a teenager. Melatonin has provided some relief, putting me to sleep more quickly and deeply. It's safe to use daily for up to three months; more research is needed on long-term use.[^buscemi] Melatonin is a tricky to obtain: it's not available in the UK, though you can buy it over-the-counter in the US (and can [import it into the UK](http://www.independent.co.uk/life-style/health-and-families/health-az/medicines-why-are-some-not-available-in-the-uk-762721.html)). My summary:

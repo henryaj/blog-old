@@ -2,6 +2,7 @@
 title: Be grateful for MDMA
 date: 2011/12/07 22:42:00
 layout: post
+category: science
 ---
 
 Sasha Shulgin is a legendary chemist and psychonaut and inventor of hundreds of psychedelics. In 1991, he and his wife, Ann, published a book. Part-novel and part-cookbook, _PiHKAL_—Phenethylamines I Have Known And Loved—told his story and the stories of the compounds he and his friends had ingested, a process he ironically termed ‘LAB’, or Large Animal Bioassay.
