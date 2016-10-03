@@ -17,13 +17,14 @@ html, body {
 
 body {
   background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  font: 13.34px roboto, helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+  text-align: left;
+  line-height: normal;
 }
 
 h1 {
@@ -174,6 +175,14 @@ ul.posts {
 
     #post pre code {
       border: none;
+    }
+
+    #post blockquote {
+      padding: 0rem 1rem;
+      margin-bottom: 1rem;
+      /*font-size: 1.25rem;*/
+      border-left: .25rem solid #eceeef;
+      color: #474747;
     }
 
   /* terminal */
