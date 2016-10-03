@@ -4,21 +4,23 @@
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>{{ page.title }}</title>
    <meta name="author" content="Henry Stanley" />
+   <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i" rel="stylesheet">
+
    <!-- syntax highlighting CSS -->
    <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
 
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
-
 </head>
 <body>
 
 <div class="site">
   <div class="title">
     <a href="/">Henry Stanley</a>
-    <a class="extra" href="/">home</a>
     {% for page in site.pages %}
-      <a class="extra" href="{{ page.url }}">{{ page.title }}</a>
+      {% unless page.title == "" or page.url == "/" %}
+        <a class="extra" href="{{ page.url }}">{{ page.title }}</a>
+      {% endunless %}
     {% endfor %}
   </div>
 
