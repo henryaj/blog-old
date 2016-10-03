@@ -16,7 +16,7 @@ title: Arguably
       {% endfor %}
     {% endfor %}
 
-    <h2>Blog posts</h2>
+    <!-- <h2>The rest</h2> -->
       {% for post in site.posts %}
         {% if post.categories %}
           <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
