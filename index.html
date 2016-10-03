@@ -4,6 +4,12 @@ title: Arguably
 ---
 
 <div id="home">
+  <ul class="posts grey">
+    {% assign latest = site.posts[0] %}
+    <h2>Latest</h2>
+    <li><span>{{ latest.date | date_to_string }}</span> &raquo; <a href="{{ latest.url }}">{{ latest.title }}</a></li>
+  </ul>
+
   <ul class="posts">
     {% for tag in site.categories %}
       {% assign category = tag[0] %}
