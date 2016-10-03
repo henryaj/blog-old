@@ -17,7 +17,15 @@ If you want to run this and get it working, save this into a file (say `server.r
 
 ## Routes
 
-In the above example, '/' is the _route_. You can define a bunch of other routes, too. For example: [code lang=ruby] get '/hi' do <h1>Hello Makers!</h1> end [/code] Now, accessing the website path `/hi` will yield the above message (which in this case will appear big and bold on the page, as we have wrapped it in `h1` tags.)
+In the above example, '/' is the _route_. You can define a bunch of other routes, too. For example:
+
+```ruby
+get '/hi' do
+  "<h1>Hello Makers!</h1>"
+end
+```
+
+Now, accessing the website path `/hi` will yield the above message (which in this case will appear big and bold on the page, as we have wrapped it in `h1` tags.)
 
 ## Testing with Cucumber
 
@@ -62,7 +70,13 @@ What this command _actually does_ is read through your `sample_app.rb` file, loo
 
 ## Config
 
-Look at the following code from the [Sinatra documentation](http://www.sinatrarb.com/configuration.html): [code lang=ruby] set :views, Proc.new { File.join(root, "templates") } [/code] Why do it this way? Seems kinda convoluted. The reason this is so important is that it bases the path to your `views` directory on the site root. If you ran `rackup` from a different directory and you'd hard-coded the views path, then it would break – it wouldn't be able to find views relative to where you're running the server file from. Using `root` gives a salient point that your site is always run from.
+Look at the following code from the [Sinatra documentation](http://www.sinatrarb.com/configuration.html):
+
+```ruby
+set :views, Proc.new { File.join(root, "templates") }
+```
+
+Why do it this way? Seems kinda convoluted. The reason this is so important is that it bases the path to your `views` directory on the site root. If you ran `rackup` from a different directory and you'd hard-coded the views path, then it would break – it wouldn't be able to find views relative to where you're running the server file from. Using `root` gives a salient point that your site is always run from.
 
 ## Sessions
 
