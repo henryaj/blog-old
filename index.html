@@ -11,14 +11,16 @@ title: Arguably
 
       {% for post in site.posts %}
         {% if post.categories contains tag[0] %}
-          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
     {% endfor %}
+  </ul>
 
-    <!-- <h2>The rest</h2> -->
+  <ul class="posts">
+    <h2>The rest</h2>
       {% for post in site.posts %}
-        {% if post.categories %}
+        {% if post.categories.size == 0 %}
           <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
       {% endfor %}
