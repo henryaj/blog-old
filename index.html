@@ -23,13 +23,8 @@ title: Arguably
     {% endfor %}
   </ul>
 
-  <ul class="posts">
-    <h2>The rest</h2>
-      {% for post in site.posts %}
-        {% if post.categories.size == 0 %}
-          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-  </ul>
+  <!-- <ul class="posts"> -->
+    <h3><a href="archive">The rest →</a></h3>
+  <!-- </ul> -->
   <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
 </div>

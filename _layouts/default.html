@@ -18,7 +18,7 @@
   <div class="title">
     <a href="/">Henry Stanley</a>
     {% for page in site.pages %}
-      {% unless page.title == "" or page.url == "/" %}
+      {% unless page.title == "" or page.url == "/" or page.hide %}
         <a class="extra" href="{{ page.url }}">{{ page.title }}</a>
       {% endunless %}
     {% endfor %}
