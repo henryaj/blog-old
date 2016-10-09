@@ -1,11 +1,21 @@
 title: Arguably
-email: henry@henrystanley.com
-description: Shouting about stuff on the internet since 2004.
+email: &email henry@henrystanley.com
+description: &desc Shouting about stuff on the internet since 2004.
+tagline: *desc
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://henryaj.github.io"
-twitter_username: henryaj
-github_username: henryaj
+url: "http://henrystanley.com"
+# twitter_username: henryaj
+# github_username: henryaj
 
 markdown: kramdown
-theme: minima
+
+paginate: 5
+
+# About/contact
+author:
+  name:              Henry Stanley
+  url:               http://henrystanley.com
+  email:             *email
+
+permalink: /:title/
