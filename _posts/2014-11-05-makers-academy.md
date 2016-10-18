@@ -16,7 +16,8 @@ This one totally is, though. I wouldn't have it any other way.
 
 ## 1.
 
-Two-and-a-bit years in pharmaceutical PR had left me jaded.
+
+Two-and-a-bit years in pharmaceutical PR had [left me jaded](https://www.glassdoor.co.uk/Overview/Working-at-Tonic-Life-Communications-EI_IE725076.11,36.htm).
 
 The day-to-day work that could be done by a shell script (or, more likely, just not done at all), endless meetings, useless project management, incompetent clients, Kafkaesque performance reviews, bullying, railroading. Having to use the same piece-of-shit computer _every goddamn day_. I wanted things to be done better; no-one wanted to hear it, because doing things better would mean less tedious administrative work, and without _that_, how are you supposed to get your junior employees to 'pay their dues'?
 
