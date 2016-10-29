@@ -4,6 +4,8 @@ layout: post
 category: travel
 ---
 
+<iframe width="576" height="320" src="https://www.youtube.com/embed/qeABjwE768w" frameborder="0" allowfullscreen></iframe>
+
 ## Marrakech
 
 _2 nights at Riad Aguerzame; 1 night at Riad Miski._
