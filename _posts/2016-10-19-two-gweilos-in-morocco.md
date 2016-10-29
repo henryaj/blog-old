@@ -20,11 +20,7 @@ There are some beautiful, historic sites in the médina, like the Ben Youssef ma
 
 [![Ben Youssef madrasa](/images/ben-youssef.jpg)](/images/ben-youssef.jpg)
 
-We stumbled upon _Le jardin secret_, a riad which had been remade as two beautiful gardens.
-
-[![Le jardin secret](/images/jardin-secret.jpg)](/images/jardin-secret.jpg)
-
-The Majorelle gardens are famed for their electric-blue paintwork, and didn't disappoint. The cactus garden was full of exotic species and was beautiful as well. The cafe was a nice place to drink _café allongé_ and people-watch – lots of beautiful Spanish and French girls, tattooed and elegantly dressed despite the heat.
+Everyone talks about the Majorelle gardens: famed for their electric-blue paintwork. The cactus garden was full of exotic species and was beautiful as well. The cafe was a nice place to drink _café allongé_ and people-watch – lots of beautiful Spanish and French girls, tattooed and elegantly dressed despite the heat. Maybe more impressive was _Le Jardin Secret_, a riad which had been remade as two beautiful gardens, with a focus on maintaining much of the existing pre-industrial irrigation.
 
 Go day-tripping to the Atlas Mountains. Wear your seatbelt if you don't want the police to stop you and fine you. (Needless to say, this isn't about safety -- none of the taxis have working seatbelts.) We had traditional Moroccan lunch, cooked by a Berber family, in a valley 2000m above sea level.
 
@@ -66,8 +62,6 @@ The place was disintegrating. Ornate balustrades had collapsed to rubble; a lone
 
 ## _Retour_
 
-Marrakesh airport is dire. Getting airside takes an hour and ten minutes. Mobile boarding passes don't work, so we have to pick up paper ones. Security takes twenty minutes or so, and the liquids policy is variably enforced. (Hector is forced to surrender his sunscreen, but I get away with mine.)
+Marrakesh airport is dire. Getting airside takes an hour and ten minutes. Mobile boarding passes don't work, so we have to pick up paper ones. Security takes twenty minutes or so, and the liquids policy is variably enforced. (Hector is forced to surrender his sunscreen, but I get away with mine.) There are blaring announcements every minute or so -- bring noise-cancelling headphones.
 
-Passport control is a farce. Several flight destinations are called out and those passengers instructed to push their way to the front of the queue. We eventually get to the front. More people push past. We're eventually directed to a window with two officers. One officer disappears, mid-way through processing someone. The two in that queue eventually go ahead of us, then me, then Hector.
-
-Being home is strange, but nice. Comforting. Britain is a calmer place. Things work here. The sound of sirens is nice - in Morocco, you never hear sirens. And what a relief to be able to walk down the street unhassled...
+Being home is strange, but nice. Comforting. Britain is a calmer place. Things work here. The sound of sirens is nice - in Morocco, you never hear sirens. And such a relief to be able to walk down the street unhassled...
