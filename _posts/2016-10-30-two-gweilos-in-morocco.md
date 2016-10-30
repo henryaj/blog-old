@@ -14,13 +14,15 @@ _2 nights at Riad Aguerzame; 1 night at Riad Miski._
 
 Our arrival was bad. Ripped off by rude taxi drivers, taken the long way round the city, and then taken to the wrong place down terrifying streets (think pitch black corners and ceilings you need to crouch to get under). We eventually found our [riad](https://en.wikipedia.org/wiki/Moroccan_riad). “Oh, we've been trying to call to see if the driver found you,” said our host. We forgot we were being picked up.
 
-Moroccans have two sides: the kind you meet out and about, and the kind inside. Inside, in shops and cafes and riads, people are charming and friendly. But outside, on the streets of the medina, people will lie through their teeth to get money out of you. “Big square is this way.” (It wasn't.) “That way is closed.” (It isn't.) “Fuck you” when you don't reply, hoping to get a rise out of you – then they know you speak English and can palm you off on one of their friends. It's not a friendly place. Plan your route before you leave your riad -- which will become an quiet oasis in the médina.
-
-Marrakech has a quieter side that shows its face on Sunday. Less harassment from street touts, fewer people in the streets. It made being out pleasant again.
+Marrakshis have two sides: the kind you meet out and about, and the kind inside. Inside, in shops and cafes and riads, people are charming and friendly. But outside, on the streets of the medina, people will lie through their teeth to get money out of you. “Big square is this way.” (It wasn't.) “That way is closed.” (It isn't.) “Fuck you” when you don't reply, hoping to get a rise out of you – then they know you speak English and can palm you off on one of their friends. It's not a friendly place. Plan your route before you leave your riad -- which will become an quiet oasis in the médina.
 
 There are some beautiful, historic sites in the médina, like the Ben Youssef madrasa.
 
 [![Ben Youssef madrasa](/images/ben-youssef.jpg)](/images/ben-youssef.jpg)
+
+The souks were of little interest. Everyone sells the same glazed tagines, tea sets and leather goods. Seeing first-hand the cruelty involved in their sale -- emaciated donkeys, whipped and laden with boxes in the scorching heat -- was awful.
+
+Marrakech has a quieter side that shows its face on Sunday. Less harassment from street touts, fewer people in the streets. It made being out pleasant again.
 
 Everyone talks about the Majorelle gardens: famed for their electric-blue paintwork. The cactus garden was full of exotic species and was beautiful as well. The cafe was a nice place to drink _café allongé_ and people-watch – lots of beautiful Spanish and French girls, tattooed and elegantly dressed despite the heat. Maybe more impressive was _Le Jardin Secret_, a riad which had been remade as two beautiful gardens, with a focus on maintaining much of the existing pre-industrial irrigation.
 
