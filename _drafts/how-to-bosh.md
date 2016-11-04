@@ -4,13 +4,17 @@ date: 2016/11/01 00:00:01
 layout: post
 ---
 
+**(This is a work in progress. Let me know your thoughts.)**
+
 [BOSH](http://bosh.io) is a set of tools -- a **CLI**, a **server ("Director")** and an **agent** -- that together let you deploy collections of virtual machines to the cloud. You can deploy on a bunch of different cloud providers: Amazon Web Services, Google Compute Platform, Microsoft Azure and more.
 
 It's notable because it's the _de facto_ deployment tool for [Cloud Foundry](http://docs.cloudfoundry.org/concepts/overview.html), the open-source platform-as-a-service.
 
 Give BOSH a **manifest** (a YAML file detailing what machines you want deployed, how they should be networked, and what code they should run) and BOSH will make it so.
 
-If something happens to one of your VMs, BOSH will recreate it automatically. Change the manifest and re-deploy, and BOSH will change only what's needed to get to the desired state. Point to a different cloud, and BOSH will deploy that same set of machines identically. BOSH is a _converger_ -- that is, it will work to converge your VMs to the correct configuration.
+If something happens to one of your VMs, BOSH will recreate it automatically. Change the manifest and re-deploy, and BOSH will change only what's needed to get to the desired state. Point to a different cloud, and BOSH will deploy that same set of machines identically.
+
+BOSH is a _converger_: it will work to converge your VMs to the correct configuration.
 
 ## Director
 
@@ -26,7 +30,7 @@ But... how do you deploy a Director? The fastest way is to use [bosh-bootloader]
 +---------------+
 ```
 
-## Atoms
+## Jobs
 
 The smallest unit of a BOSH deployment is the **job**. This might be something like [Redis](http://redis.io), a key-value datastore. This job is packaged up, possibly with other jobs, into a **release**. Once you have some releases, you can compose the jobs within into a deployment in any way you choose. This is part of the power of BOSH.
 
@@ -87,7 +91,7 @@ And, once we run `bosh deploy` on our local machine, BOSH will tell the Director
 
 Nice! We now have one VM running on our platform of choice, and that VM is running Redis. If Redis misbehaves, the Agent, also running on the VM, will restart it (using [monit](https://mmonit.com/monit/) under the hood for process management). And if the VM dies or disconnects from the Director, then the Director will redeploy it.
 
-If we want to scale out our deployment a bit, we can just make a small change to our manifest...
+If we want to scale out our deployment a bit, we can just make a small change to our manifest to indicate that we want two instances of our `redis` instance group.
 
 ```yaml
 instance_groups:
