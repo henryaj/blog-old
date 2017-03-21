@@ -2,6 +2,7 @@
 title: "I went to an Effective Altruism conference"
 date: 2017/03/21 09:00:00
 layout: post
+category: philosophy
 ---
 
 I'm impressed at how slick Effective Altruism has become.

@@ -2,6 +2,7 @@
 title: How to BOSH
 date: 2016/11/04 18:00:00
 layout: post
+category: programming
 ---
 
 **(This is a work in progress. Let me know your thoughts.)**
