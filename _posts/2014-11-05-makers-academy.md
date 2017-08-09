@@ -2,6 +2,9 @@
 title: "Makers Academy"
 date: 2014/11/05 13:32:21
 layout: post
+redirect_from:
+- "/2014/08/25/the-twelve-second-code-year-part-1/"
+- "/2014/08/25/the-twelve-second-code-year-part-1"
 category: programming
 ---
 **tl;dr: Makers was amazing, and springboarded me into a career as a software engineer. Most of the coaches who taught me have since moved on, but it seems like the course still graduates consistently employable developers.**
