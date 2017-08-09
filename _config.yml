@@ -1,7 +1,5 @@
-title: Arguably
+title: Henry Stanley
 email: &email henry@henrystanley.com
-description: &desc Shouting about stuff on the internet since 2004.
-tagline: *desc
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://henrystanley.com"
@@ -11,6 +9,9 @@ url: "http://henrystanley.com"
 markdown: kramdown
 
 paginate: 5
+
+gems:
+- jekyll-redirect-from
 
 # About/contact
 author:

@@ -2,6 +2,7 @@
 title: Giving what we can
 date: 2016/01/10 16:06:43
 layout: post
+redirect_from: "/2016/01/10/giving-what-we-can"
 category: philosophy
 ---
 
