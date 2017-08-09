@@ -7,7 +7,7 @@ redirect_from:
 - "/2014/08/25/the-twelve-second-code-year-part-1"
 category: programming
 ---
-**tl;dr: Makers was amazing, and springboarded me into a career as a software engineer. Most of the coaches who taught me have since moved on, but it seems like the course still graduates consistently employable developers.**
+**tl;dr [August 2017]: Makers was amazing, and springboarded me into a career as a software engineer. Most of the coaches who taught me have since moved on, but it seems like the course still graduates consistently employable developers.** I earn more than double what I did working in PR, plus benefits (free breakfast!), stock options, and a job I love. Tech is a great industry to be in, and while a bootcamp isn't the only way to break into it, it worked for me.
 
 ## 0.
 
