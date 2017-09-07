@@ -4,7 +4,7 @@ date: 2012/02/25 21:15:23
 layout: post
 ---
 
-Cross-posted from _[Nature_ Student Voices](http://www.nature.com/scitable/blog/student-voices/preparing_for_the_pandemic).
+Cross-posted from [_Nature_ Student Voices](http://www.nature.com/scitable/blog/student-voices/preparing_for_the_pandemic).
 
 _Is some research too dangerous to be published? Lab-made strains of bird flu have raised questions about state involvement in mitigating the threat from “dual use” research. Henry Stanley explains_
 
@@ -26,9 +26,9 @@ While the number of fatalities may be small, John Oxford, Professor of Virology 
 
 The January 19 issue of _Nature_ gave a cross-section of views from biosecurity, infectious disease and global health experts. Their opinions were divided, with some calling for part-redaction, some expressing concern at lab infections and others at the threat of accidental release of virus from a secure facility[^10]. The WHO is convening a meeting in Geneva in mid-February to which flu experts—and an NSABB representative—will be invited[^11]. In the meantime, it is hoped a consensus will emerge in the two months before the hiatus ends.
 
-[^1]: Enserink, M. Scientists Brace for Media Storm Around Controversial Flu Studies. _[ScienceInsider_](http://news.sciencemag.org/scienceinsider/2011/11/scientists-brace-for-media-storm.html), November 2011
-[^2]: Taubenberger J. and Morens, D. 1918 Influenza: the Mother of All Pandemics. _[Emerging Infectious Diseases_, January 2006; doi:10.3201/eid1201.050979](http://wwwnc.cdc.gov/eid/article/12/1/05-0979_article.htm)
-[^3]: A deadly balance. _[The Economist_, December 2011](http://www.economist.com/node/21542156)
+[^1]: Enserink, M. Scientists Brace for Media Storm Around Controversial Flu Studies. [_ScienceInsider_](http://news.sciencemag.org/scienceinsider/2011/11/scientists-brace-for-media-storm.html), November 2011
+[^2]: Taubenberger J. and Morens, D. 1918 Influenza: the Mother of All Pandemics. [_Emerging Infectious Diseases_, January 2006; doi:10.3201/eid1201.050979](http://wwwnc.cdc.gov/eid/article/12/1/05-0979_article.htm)
+[^3]: A deadly balance. [_The Economist_, December 2011](http://www.economist.com/node/21542156)
 [^4]: Goodsell, D. Hemagglutinin. PDB-101, April 2006; doi:10.2210/rcsb_pdb/mom_2006_4
 [^5]: Kawaoka, Y. H5N1: Flu transmission work is urgent [online]. Nature, January 2012; doi:10.1038/nature10884
 [^6]: Fouchier R., Herfst S., Osterhaus A. Restricted Data on Influenza H5N1 Virus Transmission [online]. Sciencexpress, January 2012; doi:10.1126/science.1218376
