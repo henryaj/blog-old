@@ -9,7 +9,7 @@ I know more than one person with a disability or chronic illness who relies on U
 
 Uber also saves lives. [Research by Dills and Mulholland](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2783797) finds that the rate of vehicle accidents, assaults and public order offences drops considerably when Uber enters a city.
 
-TfL could have demanded reforms if it wanted to. Instead, it gave Uber one minute's notice of the decision before going public with it. [Other companies](https://blog.taxify.eu/2017/09/bringing-fairer-ride-hailing-to-london/) have tried to bring innovation to London's taxi market and been brought to their knees by TfL's vindictiveness.
+Transport for London could have demanded reforms if it wanted to. Instead, it gave Uber one minute's notice of the decision before going public with it. [Other companies](https://blog.taxify.eu/2017/09/bringing-fairer-ride-hailing-to-london/) have tried to bring innovation to London's taxi market and been brought to their knees by TfL's vindictiveness.
 
 To some extent I think their flouting of the rules has been a good thing. I was surprised that the LTDA lost a case against them [alleging that Uber uses the driver's mobile phone as a taximeter](http://www.telegraph.co.uk/finance/newsbysector/transport/11935513/uber-minicabs-high-court-ruling-victory-london.html) (which it clearly does!) – but it's totally changed the shape of the market, and I believe for the better.
 
