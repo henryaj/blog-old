@@ -441,6 +441,19 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
+ /* Black */
+ .theme-base-99 .sidebar,
+ .theme-base-99 .sidebar-toggle:active,
+ .theme-base-99 #sidebar-checkbox:checked ~ .sidebar-toggle {
+   background-color: #ac4142;
+ }
+ .theme-base-99 .container a,
+ .theme-base-99 .sidebar-toggle,
+ .theme-base-99 .related-posts li a:hover {
+   color: #000;
+   text-decoration: underline;
+ }
+
 /* Red */
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,

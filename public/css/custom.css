@@ -9,8 +9,9 @@ ul.posts span {
 }
 
 html {
-  font-family: "Merriweather", Georgia, serif;
-  font-size: 16px;
+  font-family: "iosevka", Helvetica, Arial, sans-serif;
+  font-weight: extralight;
+  font-size: 18px;
 }
 
 .author {
@@ -24,7 +25,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Fira Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-weight: 300;
   color: #313131;
   letter-spacing: -.025rem;
@@ -40,4 +41,22 @@ img.headshot {
   border-radius: 50%;
   float: right;
   margin-left: 15px;
+}
+
+@font-face {
+  font-family: "iosevka";
+  font-weight: extralight;
+  src: url("https://be5invis.github.io/Iosevka/assets/iosevka-extralight.woff2");
+}
+
+@font-face {
+  font-family: "iosevka";
+  font-weight: normal;
+  src: url("https://be5invis.github.io/Iosevka/assets/iosevka-regular.woff2");
+}
+
+@font-face {
+  font-family: "iosevka";
+  font-weight: bold;
+  src: url("https://be5invis.github.io/Iosevka/assets/iosevka-medium.woff2");
 }
