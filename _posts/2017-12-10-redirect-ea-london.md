@@ -7,3 +7,5 @@ redirect_from: "/ea-london-ng"
 ---
 
 You want to go [here](/ea-test-ng).
+
+<meta http-equiv="refresh" content="0;URL='/ea-test-ng'" />
