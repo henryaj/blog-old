@@ -64,7 +64,7 @@ To start debugging, open the following URL in Chrome:
 
 Graal will print out a URL that you can copy and paste into Chrome which will drop you into a debugger session.
 
-![](/img/graal-ruby-debug.png)
+![](/images/graal-ruby-debug.png)
 
 ## What next?
 

@@ -107,6 +107,6 @@ Next, we have to handshake with some subset of the peers the tracker has told us
 
 We open a TCP connection to the peer, and send the following message:
 
-![Peer handshake message](/img/bittorrent_handshake.jpg)
+![Peer handshake message](/images/bittorrent_handshake.jpg)
 
 _To be continued..._

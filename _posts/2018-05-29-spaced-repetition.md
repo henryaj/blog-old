@@ -43,7 +43,7 @@ I'm brushing up on my [Rust](https://www.rust-lang.org/en-US/documentation.html)
 1. Install the [Power Format Pack](https://ankiweb.net/shared/info/162313389), which gives you Markdown formatting.
 1. Create a new deck (or use the default one, and use tags to subdivide your cards).
 1. Make your first card! Here's a simple example:
-![](/img/anki-add-card.png)
+![](/images/anki-add-card.png)
 Make sure to hit the Markdown render button (the rightmost button in the format panel) to render the card (⌘⇧0 on a Mac), and then save the card (⌘↵).
 
 The 'Basic' card type is fine. You can also use 'Basic (and reversed card)' if you want Anki to generate a reverse card (in this case, one that asks `println!` and expects you to answer "macro that prints text to the console").
@@ -52,15 +52,15 @@ The 'Basic' card type is fine. You can also use 'Basic (and reversed card)' if y
 
 Okay - you've added some cards, so now it's time to study them. Click on your deck, then on "Study Now".
 
-![](/img/anki-review.png)
+![](/images/anki-review.png)
 
 Try to recall the answer, then hit space to reveal:
 
-![](/img/anki-answer.png)
+![](/images/anki-answer.png)
 
 Now grade your response using the buttons provided (they're also mapped to the number keys for speed), or hit space to accept the default.
 
-![](/img/anki-done.png)
+![](/images/anki-done.png)
 
 Sweet, we're done for today. Come back tomorrow and do the same again. If you've added lots of cards, Anki will drip-feed them to you over the course of a few days.
 

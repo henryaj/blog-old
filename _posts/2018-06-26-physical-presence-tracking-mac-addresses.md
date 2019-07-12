@@ -3,7 +3,7 @@ title: "Tracking physical presence with packet sniffing"
 date: 2018-06-26T14:00:00-04:00
 ---
 
-![](/img/rcdash.png)
+![](/images/rcdash.png)
 
 I wanted a way to see who was in the Recurse Center space at any given time – or to be able to check if people were in before deciding whether I wanted to take the L to Manhattan (on a weekend, say).
 
@@ -13,7 +13,7 @@ I figure someone being connected to the Recurse Center Wi-Fi is a pretty good pr
 
 Every packet your machine sends out has a source and destination [MAC address](https://en.wikipedia.org/wiki/MAC_address) written into it. When you send a packet to a machine on your local network, your computer needs to figure out which machine you're referring to when you ask for e.g. 192.168.0.12. It does this by [consulting an ARP table](https://www.tummy.com/articles/networking-basics-how-arp-works/), which lists the known local machines' MAC addresses and their corresponding IP addresses.
 
-![](/img/packet.png)
+![](/images/packet.png)
 
 Why are MAC addresses useful? MAC addresses don't change[^change-mac], hence the moniker "burned-in address". (If they changed, that ARP table wouldn't be very useful). Tools like [Wireshark](https://www.wireshark.org/) let you trivially collect packets from a network you're connected to. If I can snoop on these packets, have a look at their sender MAC address, and tie that back to an individual, I can see who's in.
 
@@ -40,7 +40,7 @@ The source and destination MAC addresses are clearly visible. I still don't know
 
 To tie a MAC address to a user, Recursers simply send their MAC address to this friendly bot:
 
-![](/img/zulip_bot.png)
+![](/images/zulip_bot.png)
 
 The payload sent to the chat bot includes the message, plus some details of the sender that Zulip provides, including their email address. I can use that to [look them up on the Recurse Center directory](https://github.com/henryaj/rcdash/blob/698183d3340efd52dc6ca85267d25c82f3242a91/lib/auth.rb#L34-L42) to get a photo, a link to their directory page, etc. Now I know what MAC belongs to who.
 
@@ -72,7 +72,7 @@ User.where { |u| u.last_seen > ( DateTime.now - AWAY_MINS ) }.all
 
 Here's a high-level view of how the finished dashboard works:
 
-![](/img/rcdash-wireframe.png)
+![](/images/rcdash-wireframe.png)
 
 ## Addendum
 

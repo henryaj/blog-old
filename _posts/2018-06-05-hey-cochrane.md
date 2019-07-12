@@ -9,6 +9,6 @@ Cochrane reviews are pretty much the gold standard for "truth" in medical scienc
 
 But there isn't a good place to find summaries of these findings, so I thought I'd [make one](http://heycochrane.com).
 
-[![](/img/hey-cochrane.png)](http://heycochrane.com)
+[![](/images/hey-cochrane.png)](http://heycochrane.com)
 
 The source is [here](http://github.com/henryaj/heycochrane) if you want to have a look. And contributions are welcome – just [add an entry](https://github.com/henryaj/heycochrane/blob/master/summaries.yml) and make a pull request!

@@ -15,11 +15,11 @@ Using [d3-iconarray](https://github.com/tomgp/d3-iconarray), I built some figure
 
 Here's where Americans donate:
 
-![](/img/animal-donations.png)
+![](/images/animal-donations.png)
 
 and here's a very different picture – where animals actually get used:
 
-![](/img/animals-used.png)
+![](/images/animals-used.png)
 
 Some of the figures surfaced are really unbelievable, like this one:
 
