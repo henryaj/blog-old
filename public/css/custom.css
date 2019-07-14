@@ -36,6 +36,17 @@ h2 {
   margin-top: 1.65rem;
 }
 
+#site-title {
+  color: steelblue;
+}
+
+h3.masthead-title > small {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: gray;
+}
+
+
 img.headshot {
   width: 150px;
   height: auto;
