@@ -1,6 +1,7 @@
 ---
 title: "Blagging your way through d3.js"
 date: 2018-06-13T17:00:00-04:00
+layout: post
 ---
 
 With [twelve weeks](https://recurse.com) to do whatever programming projects I wanted, I figure now is the time to try something I've never touched before.

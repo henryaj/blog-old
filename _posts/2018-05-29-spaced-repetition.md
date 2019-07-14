@@ -1,7 +1,7 @@
 ---
 title: "Learning Programming Languages with Spaced Repetition"
 date: 2018-05-29T09:30:00-04:00
-draft: false
+layout: post
 ---
 
 The [spacing effect](https://en.wikipedia.org/wiki/Spacing_effect) shows that the most efficient way to learn material is to expose yourself to it at increasing intervals, instead of cramming. Spaced repetition learning uses this effect to show you flashcards at intervals optimised for knowledge retention.

@@ -1,6 +1,7 @@
 ---
 title: "Getting started with Graal"
 date: 2018-07-30T13:08:37-04:00
+layout: post
 ---
 
 GraalVM promises to be ["one VM to rule them all"](https://www.semanticscholar.org/paper/One-VM-to-rule-them-all-W%C3%BCrthinger-Wimmer/53e2b31ad6fea91655ecbe64fe66968b934d0160) – a way to "run code faster anywhere".

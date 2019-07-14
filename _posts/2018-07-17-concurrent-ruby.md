@@ -1,6 +1,7 @@
 ---
 title: "Multi-file wordcount – an exercise in concurrent Ruby"
 date: 2018-07-17T13:41:00-04:00
+layout: post
 ---
 
 Web frameworks have [TodoMVC](http://todomvc.com/) as a standard exercise, in which you build a little to-do list app. It's a cute way to showcase the features of that framework and get to know it a little better.

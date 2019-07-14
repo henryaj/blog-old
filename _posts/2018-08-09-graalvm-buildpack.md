@@ -1,6 +1,7 @@
 ---
 title: "A Buildpack for GraalVM"
 date: 2018-08-09T12:30:43-04:00
+layout: post
 ---
 
 tl;dr: <a href="#instructions">Deploy your Ruby code to Heroku and have it run on GraalVM</a>.

@@ -1,7 +1,7 @@
 ---
 title: "BitTorrent clients for fun and profit"
 date: 2018-05-23T16:12:18-04:00
-draft: false
+layout: post
 ---
 
 _This is a work in progress._

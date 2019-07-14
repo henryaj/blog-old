@@ -1,6 +1,7 @@
 ---
 title: "Tracking physical presence with packet sniffing"
 date: 2018-06-26T14:00:00-04:00
+layout: post
 ---
 
 ![](/images/rcdash.png)

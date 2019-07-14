@@ -1,6 +1,7 @@
 ---
 title: "Hey, Cochrane - quick answers to medical questions"
 date: 2018-06-05T10:33:20-04:00
+layout: post
 ---
 
 [Cochrane](http://cochrane.org) is a body which produces meta-analyses on medical topics – basically, they pick a subject to review, trawl through all the existing scientific papers that have been published, throw away almost all of them because they're too small, not statistically rigorous, or have some other methodological problem, and then use what's left to make a judgement on the topic.

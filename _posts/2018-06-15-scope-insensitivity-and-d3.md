@@ -1,6 +1,7 @@
 ---
 title: "Scope insensitivity and d3.js"
 date: 2018-06-15T10:00:00-04:00
+layout: post
 ---
 
 > tl;dr: Check out my [Observable notebook](https://beta.observablehq.com/@henryaj/where-we-donate-and-why-it-matters) showing how vast the scale of factory farming is.
