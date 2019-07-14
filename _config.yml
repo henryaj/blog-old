@@ -1,10 +1,9 @@
 title: Henry Stanley
+# tagline:
 email: &email henry@henrystanley.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://henrystanley.com"
-# twitter_username: henryaj
-# github_username: henryaj
 
 markdown: kramdown
 
