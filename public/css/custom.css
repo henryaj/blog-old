@@ -1,3 +1,9 @@
+@media (min-width: 56em) {
+  .container {
+    max-width: 45rem;
+  }
+}
+
 ul.posts {
   list-style: none;
   padding-left: 0;
