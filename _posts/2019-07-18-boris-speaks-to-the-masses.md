@@ -30,5 +30,7 @@ Another standing ovation after his speech. Hunt went next. (People were streamin
 
 The next six months will be very strange.
 
+_(Edit: turns out [the kipper thing is just a naked lie](https://www.theguardian.com/politics/2019/jul/18/boris-johnson-claims-about-kippers-fishy-brussels-says).)_
+
 [![Boris in a dunce hat](/images/boris.jpg)](https://www.economist.com/britain/2018/12/08/our-end-of-year-awards-celebrate-the-worst-in-politics)
 
