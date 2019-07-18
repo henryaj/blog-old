@@ -8,7 +8,7 @@ A few months ago, predicting a leadership contest, I joined the Conservative par
 
 Sure enough, there _was_ a leadership contest, and the 180,000 party members (instead of the UK population of 65million) will decide who becomes the next Prime Minister.
 
-(Yes, I don't like them either. But to have even a small chance of diluting the influence of a party base who wants to see Brexit delivered even if it literally destroys our economy - the psychic pain of joining is surely worth it for that.)
+(Yes, I don't like them either. But to have even a small chance of diluting the influence of a party base who [want to see Brexit delivered even if it literally destroys our economy](https://yougov.co.uk/topics/politics/articles-reports/2019/06/18/most-conservative-members-would-see-party-destroye) - the psychic pain of joining is surely worth it for that.)
 
 I've already voted for Not Boris. Johnson intends to leave the EU on October 31 "come what may", and if necessary without an exit deal in place. [This would be economic suicide](https://www.theguardian.com/business/2019/jul/18/no-deal-brexit-would-plunge-britain-into-a-recession-says-obr).
 
@@ -29,3 +29,6 @@ Except of course we will. If we want to export to the EU we still have to abide 
 Another standing ovation after his speech. Hunt went next. (People were streaming out of the auditorium as he was speaking.) He was wholesome, but wooden and constipated. Boris is funny, and a better rhetorician. And amazingly, in spite of his history of offense and deceit - people love him. The betting markets agree; £100 on Boris on Betfair Exchange will net you £2 profit if he wins.
 
 The next six months will be very strange.
+
+[![Boris in a dunce hat](/images/boris.jpg)](https://www.economist.com/britain/2018/12/08/our-end-of-year-awards-celebrate-the-worst-in-politics)
+
