@@ -28,7 +28,7 @@ The scooter has a built in taillight which is notoriously flaky. Two common ways
 
 To fix this, remove the rear fender and tape up the connector between the battery pack and the light. Removing the fender is pretty straightforward, but you need to remove three rubber grommets where the fender is attached first - use a knife or something similar to prise them out, then you can unscrew as normal.
 
-To stop the taillight cable fraying, you can buy accessories like this which protect the joint between the taillight and the cable.
+To stop the taillight cable fraying, you can buy [accessories like this](https://www.purescooters.com/products/3d-printed-under-cable-protector-for-rear-mud-guard-on-the-xiaomi-m365) which protect the joint between the taillight and the cable.
 
 ### Stem
 
