@@ -1,5 +1,5 @@
 ---
-title: "Xiaomi M365 owner's manual"
+title: "Xiaomi electric scooter - the missing manual"
 date: 2019-06-24T09:30:00
 layout: post
 ---
@@ -75,7 +75,7 @@ Get [this phone mount](https://www.amazon.co.uk/Gub-Mountian-Bike-Phone-Mount/dp
 I'd be remiss if I didn't mention this: the scooter has Bluetooth, which is neat for seeing your speed and how far you've gone, but can also be used to update the scooter's firmware. Even better, you can [create your own custom firmware](https://m365.botox.bz/) and flash that... Things to try:
 
 * Reduce the motor power constant. This gives you more power and acceleration. You'll soon wonder how you did without it. Obviously this reduces the scooter's range, but for most people this will be an acceptable trade off (I've never run the battery down lower than 25%, even when making multiple trips).
-* Increase the KERS min. speed (the speed at which regenerative braking is enabled). Set it high enough and you disable regenerative braking altogether, though it still kicks in when you pull the brake lever. I have this set - I much prefer being able to coast than the default aggressive regenerative braking kicking in. 
+* Increase the KERS min. speed (the speed at which regenerative braking is enabled). Set it high enough and you disable regenerative braking altogether, though it still kicks in when you pull the brake lever. This is my preference - I much prefer being able to coast than the default aggressive regenerative braking kicking in. 
 * Try the 'Russian throttle algorithm'. Okay I have no idea what this is, but maybe you won't die.
 
 That's it! Happy riding, and [get in touch](mailto:henry@henrystanley.com) if you have comments.
