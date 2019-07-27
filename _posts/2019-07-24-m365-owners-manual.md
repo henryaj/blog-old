@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi electric scooter - the missing manual"
-date: 2019-06-24T09:30:00
+date: 2019-07-27T09:30:00
 layout: post
 ---
 
