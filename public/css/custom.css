@@ -1,3 +1,7 @@
+html {
+  scroll-behavior:smooth;
+}
+
 @media (min-width: 56em) {
   .container {
     max-width: 45rem;
@@ -46,13 +50,6 @@ h2 {
   color: steelblue;
 }
 
-h3.masthead-title > small {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-weight: 400;
-  color: gray;
-}
-
-
 img.headshot {
   width: 150px;
   height: auto;
@@ -61,20 +58,10 @@ img.headshot {
   margin-left: 15px;
 }
 
-/*@font-face {
-  font-family: "iosevka";
-  font-weight: extralight;
-  src: url("https://be5invis.github.io/Iosevka/assets/iosevka-extralight.woff2");
+.navlink {
+  padding-left: 4px;
+  font-family: "Inconsolata", monospace;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: lightgray;
 }
-
-@font-face {
-  font-family: "iosevka";
-  font-weight: normal;
-  src: url("https://be5invis.github.io/Iosevka/assets/iosevka-regular.woff2");
-}
-
-@font-face {
-  font-family: "iosevka";
-  font-weight: bold;
-  src: url("https://be5invis.github.io/Iosevka/assets/iosevka-medium.woff2");
-}*/

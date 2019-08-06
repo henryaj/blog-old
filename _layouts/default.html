@@ -4,17 +4,15 @@
   {% include head.html %}
 
   <body class="theme-base-99">
-
-    {% comment %}{% include sidebar.html %}{% endcomment %}
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a id="site-title" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a><br>
-            <small>{{ site.tagline }}</small>
+            <a id="site-title" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <sup class="navlink"><a href="/now">Now</a></sup>
+            <sup class="navlink"><a href="/commands">Commands</a></sup>
+            <sup class="navlink"><a href="#about">About</a></sup>
+            <sup class="navlink"><a href="https://tinyletter.com/henrystanley">Subscribe</a></sup>
           </h3>
         </div>
       </div>
