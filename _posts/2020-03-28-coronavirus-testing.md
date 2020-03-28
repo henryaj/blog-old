@@ -48,9 +48,9 @@ If there's no anti-coronavirus antibody in the sample, it won't bind to the labe
 
 ```
 antibody in blood ->
-  binds to labelled antigen ->
+  binds to labelled antigen forming a complex ->
     antigen passes over detection area ->
-      anti-human antibody binds to labelled antigen -> colour change
+      anti-human antibody binds to complex -> colour change
 ```
 
 Coronavirus antibody test kits have two detection areas - one for IgG antibodies and another for IgM antibodies.
