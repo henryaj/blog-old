@@ -2,11 +2,12 @@
 layout: default
 title: Commands
 hide: true
+published: true
 ---
 
 # Commands
 
-<small>Last updated: August 2019</small>
+<small>Last updated: April 2020</small>
 
 I have a bunch of yellow sticky notes on the wall of my bedroom. Whenever I read something I'm inspired by, or just makes me stop and take notice, I add a new sticky note.
 
@@ -16,6 +17,9 @@ They're kinda like quotes, but they're not taken verbatim. They're more like [co
 
 ### Hell yes, or no.
 Don't take on things you're lukewarm about. From [Derek Sivers](https://sivers.org/hellyeah).
+
+### There is no speed limit.
+Sivers again – he graduated from the Berklee College of Music in half the time it normally takes by working hard and testing out of required courses. Often, [you can go as fast as you like](https://sive.rs/kimo).
 
 ### Be the first.
 I forget where this came from - but the premise is that you should take it upon yourself to be the first mover. Don't wait for someone to suggest lunch, or point out something's wrong, or ask for help - give yourself permission to be the first one to do so.
