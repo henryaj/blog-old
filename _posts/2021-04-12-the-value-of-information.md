@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: The value of information
 ---
 I sometimes wonder how many people are missing out on the best jobs, or relationships, or experiences for lack of better information about the expected value of pursuing them.
 
