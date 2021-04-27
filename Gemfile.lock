@@ -245,10 +245,6 @@ GEM
 
 PLATFORMS
   ruby
-<<<<<<< HEAD
-  x86_64-darwin-20
-=======
->>>>>>> parent of 601b741 (gem nonsense)
 
 DEPENDENCIES
   github-pages
