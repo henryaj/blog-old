@@ -1,6 +1,7 @@
 ---
 published: false
+title: The shouting will continue until morale improves
 ---
-## A New Post
+Basecamp recently announced a no politics at work policy. Employees are requested not to post about or discuss politics on the company Basecamp account.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Coinbase did this a few months ago, describing it as a shift towards becoming a 'mission-focused company' (i.e. one not distracted with polarising political discussions at work).
