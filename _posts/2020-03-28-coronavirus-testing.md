@@ -5,10 +5,6 @@ layout: post
 ---
 
 
-**NB -- I have a handful of antibody tests going spare (bought some for friends and family) - [message me](mailto:henry@henrystanley.com) if you want one.**
-
----
-
 There's been lots of talk in the media about testing people for SARS-CoV-2 (or "coronavirus") infection.
 
 Knowing who's infected is useful: if you're a health worker and you test positive, you know you have to stay at home. But if you test negative, you don't have to lose two weeks of work to self-isolation.
