@@ -65,3 +65,7 @@ img.headshot {
   font-weight: 400;
   color: lightgray;
 }
+
+.masthead {
+  border: none;
+}
