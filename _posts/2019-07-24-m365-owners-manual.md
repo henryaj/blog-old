@@ -4,8 +4,6 @@ date: 2019-07-27T09:30:00
 layout: post
 ---
 
-[![Xiaomi M365 electric scooter](/images/scooter.jpg)]()
-
 Obviously I would never ride an electric scooter in London - it's illegal for some reason. But if hypothetically I'd been commuting to work on one for the last 7 months, this is the guide I would've wanted.
 
 The M365 is the king of electric scooters - sturdy, a smoother ride than the competition, and beautifully designed. I highly recommend it.
