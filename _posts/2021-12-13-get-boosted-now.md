@@ -26,5 +26,4 @@ Get a booster shot as soon as you can.
 
 ---
 
-[^ons-covid]: See this [blog post from the ONS](https://blog.ons.gov.uk/2021/09/16/how-common-is-long-covid-that-depends-on-how-you-measure-it/):
-> in April 2021 we published results using one of the three approaches, based on tracking continuous symptoms. One of the more striking findings from the latest release is the revision to the 12-week prevalence estimate using this approach, from 14% back in April to **3% now**. This fall in the prevalence estimate is largely because we know more about participants’ long-term symptoms today than we did then.
+[^ons-covid]: See this [blog post from the ONS](https://blog.ons.gov.uk/2021/09/16/how-common-is-long-covid-that-depends-on-how-you-measure-it/): "in April 2021 we published results using one of the three approaches, based on tracking continuous symptoms. One of the more striking findings from the latest release is the revision to the 12-week prevalence estimate using this approach, from 14% back in April to **3% now**. This fall in the prevalence estimate is largely because we know more about participants’ long-term symptoms today than we did then."
