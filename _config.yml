@@ -12,6 +12,10 @@ paginate: 5
 gems:
 - jekyll-redirect-from
 
+github:
+  repo: henryaj/henryaj.github.io
+  branch: master
+
 # About/contact
 author:
   name:              Henry Stanley
