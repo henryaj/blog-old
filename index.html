@@ -6,24 +6,11 @@ title: Henry Stanley
 <div id="home" style="margin-bottom: 4rem;">
   {% include author.html %}
 
-  <ul class="posts">
-    <h2>Recent posts</h2>
-      {% for post in site.posts limit:5 %}
-        {% if post.categories.size == 0 %}
-          <li>
-            <h3>
-            <span>{{ post.date | date: "%b %Y" }} </span>
-              <a href="{{ post.url }}">
-                {{ post.title }}
-              </a>
-            </h3>
+  <div style="display: flex; justify-content: center;">
+    <iframe src="https://henryaj.substack.com/embed" width="480" height="250" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
 
-            <div style="padding-left: 1.5rem;">
-              {{ post.excerpt }}
-            </div>
-          </li>
-        {% endif %}
-      {% endfor %}
-  </ul>
-  <a href="/archive" style="float:right;">View all posts →</a>
+  <div style="padding-top: 5rem;">
+    <a href="/archive">View old posts →</a>
+  </div>
 </div>
